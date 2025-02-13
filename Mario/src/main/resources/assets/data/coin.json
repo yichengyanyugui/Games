@@ -1,0 +1,9 @@
+{
+  "name": "coinBox",
+  "description": "可以增加分数",
+  "width": 70,
+  "height": 70,
+  "score": 1,
+  "duration": 0.5,
+  "image": "coin_box.png"
+}

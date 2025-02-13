@@ -1,0 +1,97 @@
+#
+# 对话框文本
+#
+
+dialog.exitGame = 退出游戏？
+dialog.yes = 是
+dialog.no = 否
+dialog.ok = 确定
+dialog.cancel = 取消
+
+#
+# 菜单文本
+#
+
+menu.language = 语言
+menu.continue = 继续
+menu.resume = 恢复
+menu.newGame = 新游戏
+menu.save = 保存
+menu.load = 加载
+menu.extra = 额外
+menu.online = 在线
+menu.video = 视频
+menu.audio = 音频
+menu.credits = 制作人员
+menu.options = 选项
+menu.logout = 注销
+menu.exit = 退出
+menu.mainMenu = 主菜单
+menu.restore = 恢复
+menu.gameplay = 游戏玩法
+menu.controls = 控制
+menu.trophies = 奖杯
+menu.feedback = 反馈
+menu.back = 返回
+menu.delete = 删除
+menu.difficulty = 难度
+menu.playtime = 游戏时间
+menu.music.volume = 音乐音量
+menu.sound.volume = 音效音量
+menu.fullscreen = 全屏
+menu.fixRatio = 固定比例
+menu.settingsRestore = 设置将恢复为默认值
+menu.exitMainMenu = 退出到主菜单？
+menu.logOut = 注销？
+menu.unsavedProgress = 未保存的进度将会丢失！
+menu.chooseFeedback = 选择您的反馈方式
+menu.pressAnyKey = 按任意键
+menu.loadSave = 加载存档
+menu.loading = 加载中
+menu.loadingSaveFiles = 加载存档文件
+menu.loadingLast = 加载上次的存档文件
+menu.deleteSave = 删除存档
+menu.deleting = 删除中
+menu.overwrite = 覆盖存档
+menu.enterSaveName = 输入存档文件名
+menu.savingData = 保存数据中
+
+#
+# 多人游戏文本
+#
+
+multiplayer.new = 新建
+multiplayer.select = 选择
+multiplayer.options = 多人游戏选项
+multiplayer.connect = 连接...
+multiplayer.connecting = 正在连接游戏
+multiplayer.host = 主机
+multiplayer.hosting = 正在主持游戏
+multiplayer.enterIp = 输入服务器IP
+
+#
+# 个人资料文本
+#
+
+profile.profile = 个人资料
+profile.selectOrCreate = 选择或创建个人资料
+profile.loadingProfile = 加载个人资料
+profile.loadingProfiles = 加载个人资料
+profile.deletingProfile = 删除个人资料
+profile.corrupted = 个人资料已损坏
+profile.new = 新个人资料
+
+#
+# 开发文本
+#
+
+dev.screenshotSaved = 截图已保存
+dev.screenshotFailed = 截图失败
+
+#
+# 成就文本
+#
+
+achievement.achievement = 成就
+achievement.progress = 进度
+achievement.receive = 您获得了一个成就！

@@ -1,0 +1,6 @@
+{
+  "name": "door",
+  "description": "目的地，到达后，当前关卡结束",
+  "bWidth": 17,
+  "bHeight": 108
+}

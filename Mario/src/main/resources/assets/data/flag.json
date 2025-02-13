@@ -1,0 +1,7 @@
+{
+  "name": "flag",
+  "description": "尝试跳跃更高碰到旗帜，高度越高，分数越高",
+  "width": 39,
+  "height": 893,
+  "maxScore": 100
+}
